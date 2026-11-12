@@ -19,15 +19,14 @@ Viewing aggregated hospital and physician data
 
 Project Structure
 
-phase3.py          # Main FastAPI application
-queries.py         # Contains all database query functions
-templates/
-    index.html     # HTML template for interface
-database.py        # Database connection setup
+- phase3.py          # Main FastAPI application
+- queries.py         # Contains all database query functions
+- templates/
+- index.html         # HTML template for interface
+- database.py        # Database connection setup
 
 
-
- Requirements
+Requirements
 
 Python 
 FastAPI
